@@ -1,10 +1,10 @@
 {
-  "name": "byjg/migration",
+  "name": "put/byjg-migration",
   "description": "Simple library in PHP for database version control. Supports Sqlite, MySql, Sql Server and Postgres.",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "byjg/anydataset-db": "4.9.*",
+    "put/byjg-anydataset-db": "4.9.2",
     "ext-pdo": "*"
   },
   "require-dev": {
